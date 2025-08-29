@@ -1,0 +1,5 @@
+{
+  "name": "Campus Meal Card Management System",
+  "description": "A full-stack application for managing campus meal cards, including student balance, recharges, POS for cashiers, and admin dashboards. This version uses a mocked frontend to simulate the full application flow.",
+  "requestFramePermissions": []
+}
